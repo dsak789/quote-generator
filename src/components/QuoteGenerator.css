@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.top-bar{
+    display: flex;
+    min-height: 30vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+.quote-space{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
